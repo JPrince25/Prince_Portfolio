@@ -1,0 +1,46 @@
+body{
+    background-color: navy;
+}
+div.Header{
+    float: left;
+    width: 99.4%;
+    background-color: aqua;
+    margin-bottom: 20px;
+    border: 5px solid black;
+}
+h1{
+    float: left;
+    width: 80%;
+}
+div.AboutMe{
+    float: left;
+    width: 10%;
+}
+div.Resume{
+    float: left;
+    width: 10%;
+}
+
+div.WebBased{
+    float: left;
+    width: 99.4%;
+    background-color: aqua;
+    margin-bottom: 20px;
+    border: 5px solid black;
+}
+
+div.Programs{
+    float: left;
+    width: 99.4%;
+    background-color: aqua;
+    margin-bottom: 20px;
+    border: 5px solid black;
+}
+
+div.Maths{
+    float: left;
+    width: 99.4%;
+    background-color: aqua;
+    margin-bottom: 20px;
+    border: 5px solid black;
+}
