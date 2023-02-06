@@ -1,0 +1,187 @@
+h1 {
+    font-size: 90px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h2 {
+    font-size: x-large;
+}
+h3 {
+    font-size: x-large;
+}
+h4 {
+    font-size: x-large;
+}
+h5 {
+    font-size: x-large;
+}
+h6 {
+    font-size: x-large;
+}
+body {
+    background-color: black;
+}
+img.headshot_image {
+    width: 55%;
+    border-radius: 150px;
+    border: 3px solid red;
+}
+img.prince_photo {
+    width: 100%;
+    float: right;
+    border-radius: 10px;
+    border: 3px solid red
+}
+img.lennon_pic {
+    width: 55%;
+    border-radius: 150px;
+    border: 3px solid red
+
+}
+img.gmail_logo{
+    width:15px;
+}
+img.discord_logo{
+    width:15px;
+}
+
+img.towel {
+    width: 25%;
+    float: right;
+    border-radius: 10px;
+    border: 3px solid red
+}
+
+img.tommys {
+    width: 40%;
+    border-radius: 10px;
+    border: 3px solid red
+}
+
+img.props {
+    width: 25%;
+    margin-right: 2%;
+    border-radius: 10px;
+    border: 3px solid red
+}
+
+p.header {
+    font-size: large;
+}
+
+
+em{
+    color: blue;
+}
+
+ul {
+    list-style-type: square;
+}
+
+div.header {
+    float: left;
+    width: 100%;
+    
+}
+div.header_title{
+    margin: auto;
+    width: 100% -5px;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid red;
+    background-color: beige;
+}
+div.headshot {
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+div.header_panel {
+    border: 3px solid red;
+    background-color: beige;
+}
+div.header_content {
+    float: left;
+    width: 40%;
+    text-align: center;
+    padding-top: 5%;
+    
+}
+div.lennon_pic{
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+
+div.introduction{
+    float: left;
+    width: 100%;
+    border: 3px solid red;
+    background-color: beige;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+div.introduction_content{
+    padding-left: 10px;
+}
+
+div.favorite_hobby{
+    float: left;
+    width: 100%;
+    border: 3px solid red;
+    background-color: beige;
+    margin-bottom: 20px;
+}
+
+div.favorite_hobby_content{
+    padding-left: 10px;
+    width: 50%;
+    float: left;
+}
+
+div.favorite_hobby_graphics{
+    width: 40%;
+    text-align: center;
+    float: right;
+}
+
+
+div.fun_fact{
+    float: left;
+    width: 100%;
+    border: 3px solid red;
+    background-color: beige;
+    margin-bottom: 20px;
+}
+
+div.fun_fact_content{
+    padding-left: 10px;
+    width: 45%;
+    float: left;
+}
+
+div.fun_fact_graphics {
+    width:50%;
+    float: right;
+    text-align: center;
+}
+
+div.greatest_innovations{
+    float: left;
+    width: 100%;
+    border: 3px solid red;
+    background-color: beige;
+    margin-bottom: 20px;
+}
+
+div.course_goals_content{
+    float: left;
+    width: 50% - 10px;
+    padding-left: 10px;
+}
+
+div.greatest_innovations_content{
+    padding-left: 10px;
+    float: left;
+    width: 50%;
+}
+

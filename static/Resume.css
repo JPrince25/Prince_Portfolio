@@ -1,0 +1,50 @@
+body{
+    
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+}
+
+h2{
+    margin-top: 40px;
+    margin-left: 10%;
+    font-size: larger;
+}
+h3{
+    margin-top: 30px;
+    margin-left: 10%;
+    font-size: larger;
+}
+p.header{
+    text-align: center;
+    font-size: larger;
+}
+p.text{
+    margin-left: 15%;
+    font-size: larger;
+    width: 80%;
+}
+p.left{
+    float: left;
+    margin-left: 15%;
+    font-size: larger;
+    width: 50%;
+}
+p.right{
+    float: left;
+    font-size: larger;
+    width: 35%;
+}
+div.line{
+    width: 80%;
+    margin-left: 10%;
+    border: 1px solid black;
+}
+
+li{
+    margin-left: 15%;
+    font-size: larger;
+    width: 80%;
+    margin-bottom: 15px;
+}
